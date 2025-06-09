@@ -1,0 +1,17 @@
+{
+  "name": "8.6.14_not_working",
+  "private": true,
+  "installConfig": {
+    "hoistingLimits": "workspaces"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 8614"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "8.6.14",
+    "@storybook/builder-vite": "8.6.14",
+    "@storybook/react": "8.6.14",
+    "@storybook/react-vite": "8.6.14",
+    "storybook": "8.6.14"
+  }
+}

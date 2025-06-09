@@ -1,0 +1,17 @@
+{
+  "name": "8.5.0-beta.9_working",
+  "private": true,
+  "installConfig": {
+    "hoistingLimits": "workspaces"
+  },
+  "scripts": {
+    "storybook": "storybook dev -p 8509"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "8.5.0-beta.9",
+    "@storybook/builder-vite": "8.5.0-beta.9",
+    "@storybook/react": "8.5.0-beta.9",
+    "@storybook/react-vite": "8.5.0-beta.9",
+    "storybook": "8.5.0-beta.9"
+  }
+}
